@@ -1,0 +1,5 @@
+C:\Work\git\GitHub\DNNSchedule\obj\Debug\ScheduledTask.csprojResolveAssemblyReference.cache
+C:\Work\git\dnndev.me\bin\DNNScheduledTask.dll
+C:\Work\git\dnndev.me\bin\DNNScheduledTask.pdb
+C:\Work\git\GitHub\DNNSchedule\obj\Debug\DNNScheduledTask.dll
+C:\Work\git\GitHub\DNNSchedule\obj\Debug\DNNScheduledTask.pdb

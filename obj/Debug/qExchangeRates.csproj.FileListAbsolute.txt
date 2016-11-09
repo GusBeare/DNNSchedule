@@ -1,0 +1,7 @@
+C:\bin\qExchangeRates.dll
+C:\bin\qExchangeRates.pdb
+C:\Work\Pole Position Creations - Gijs\q-exchange-rates\obj\Debug\qExchangeRates.dll
+C:\Work\Pole Position Creations - Gijs\q-exchange-rates\obj\Debug\qExchangeRates.pdb
+C:\Work\dnndev.me\bin\qExchangeRates.dll
+C:\Work\dnndev.me\bin\qExchangeRates.pdb
+C:\Work\Pole Position Creations - Gijs\q-exchange-rates\obj\Debug\qExchangeRates.csprojResolveAssemblyReference.cache

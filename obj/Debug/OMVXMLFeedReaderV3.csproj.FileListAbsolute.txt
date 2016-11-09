@@ -1,0 +1,11 @@
+C:\bin\OMVXMLFeedReader.dll
+C:\bin\OMVXMLFeedReader.pdb
+C:\Users\gus\Local Settings\Documents\Visual Studio 2010\Projects\OMVXMLFeedReaderV3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gus\Local Settings\Documents\Visual Studio 2010\Projects\OMVXMLFeedReaderV3\obj\Debug\OMVXMLFeedReader.dll
+C:\Users\gus\Local Settings\Documents\Visual Studio 2010\Projects\OMVXMLFeedReaderV3\obj\Debug\OMVXMLFeedReader.pdb
+C:\Work\OMVXMLFeedReaderV3\obj\Debug\OMVXMLFeedReader.dll
+C:\Work\OMVXMLFeedReaderV3\obj\Debug\OMVXMLFeedReader.pdb
+C:\Work\OMVXMLFeedReaderV3\obj\Debug\OMVXMLFeedReaderV3.csprojResolveAssemblyReference.cache
+C:\Work\Pole Position Creations - Gijs\ZWV Feeds\trunk\obj\Debug\OMVXMLFeedReaderV3.csprojResolveAssemblyReference.cache
+C:\Work\Pole Position Creations - Gijs\ZWV Feeds\trunk\obj\Debug\OMVXMLFeedReader.dll
+C:\Work\Pole Position Creations - Gijs\ZWV Feeds\trunk\obj\Debug\OMVXMLFeedReader.pdb

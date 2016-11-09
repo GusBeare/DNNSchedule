@@ -1,0 +1,18 @@
+C:\Users\gus\Local Settings\Documents\Visual Studio 2010\Projects\OMVXMLFeedReader\bin\Debug\OMVXMLFeedReader.dll
+C:\Users\gus\Local Settings\Documents\Visual Studio 2010\Projects\OMVXMLFeedReader\bin\Debug\OMVXMLFeedReader.pdb
+C:\Users\gus\Local Settings\Documents\Visual Studio 2010\Projects\OMVXMLFeedReader\bin\Debug\DotNetNuke.dll
+C:\Users\gus\Local Settings\Documents\Visual Studio 2010\Projects\OMVXMLFeedReader\bin\Debug\DotNetNuke.Web.dll
+C:\Users\gus\Local Settings\Documents\Visual Studio 2010\Projects\OMVXMLFeedReader\bin\Debug\DotNetNuke.WebControls.dll
+C:\Users\gus\Local Settings\Documents\Visual Studio 2010\Projects\OMVXMLFeedReader\bin\Debug\DotNetNuke.WebUtility.dll
+C:\Users\gus\Local Settings\Documents\Visual Studio 2010\Projects\OMVXMLFeedReader\bin\Debug\SharpZipLib.dll
+C:\Users\gus\Local Settings\Documents\Visual Studio 2010\Projects\OMVXMLFeedReader\bin\Debug\Telerik.Web.UI.dll
+C:\Users\gus\Local Settings\Documents\Visual Studio 2010\Projects\OMVXMLFeedReader\bin\Debug\DotNetNuke.Services.Syndication.dll
+C:\Users\gus\Local Settings\Documents\Visual Studio 2010\Projects\OMVXMLFeedReader\bin\Debug\CountryListBox.dll
+C:\Users\gus\Local Settings\Documents\Visual Studio 2010\Projects\OMVXMLFeedReader\bin\Debug\WebFormsMvp.dll
+C:\inetpub\DNN564\bin\OMVXMLFeedReader.dll
+C:\inetpub\DNN564\bin\OMVXMLFeedReader.pdb
+C:\bin\OMVXMLFeedReader.dll
+C:\bin\OMVXMLFeedReader.pdb
+C:\Users\gus\Local Settings\Documents\Visual Studio 2010\Projects\OMVXMLFeedReader\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gus\Local Settings\Documents\Visual Studio 2010\Projects\OMVXMLFeedReader\obj\Debug\OMVXMLFeedReader.dll
+C:\Users\gus\Local Settings\Documents\Visual Studio 2010\Projects\OMVXMLFeedReader\obj\Debug\OMVXMLFeedReader.pdb
