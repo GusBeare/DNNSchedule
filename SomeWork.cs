@@ -1,6 +1,6 @@
 ﻿
 
-namespace DNNScheduledTask.DotNetNuke.SomeWork
+namespace DNNScheduledTask.DotNetNuke
 {
     public static class SomeWork
     {
