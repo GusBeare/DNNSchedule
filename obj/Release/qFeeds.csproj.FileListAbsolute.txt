@@ -1,5 +1,0 @@
-C:\Work\bin\qFeedReader.dll
-C:\Work\bin\qFeedReader.pdb
-C:\Work\Pole Position Creations - Gijs\q-feeds\obj\Release\qFeedReader.dll
-C:\Work\Pole Position Creations - Gijs\q-feeds\obj\Release\qFeedReader.pdb
-C:\Work\Pole Position Creations - Gijs\q-feeds\obj\Release\qFeeds.csprojResolveAssemblyReference.cache

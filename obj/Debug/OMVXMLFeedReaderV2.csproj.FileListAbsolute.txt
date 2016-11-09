@@ -1,5 +1,0 @@
-C:\bin\OMVXMLFeedReader.dll
-C:\bin\OMVXMLFeedReader.pdb
-C:\Users\gus\Local Settings\Documents\Visual Studio 2010\Projects\OMVXMLFeedReaderV2\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\gus\Local Settings\Documents\Visual Studio 2010\Projects\OMVXMLFeedReaderV2\obj\Debug\OMVXMLFeedReader.dll
-C:\Users\gus\Local Settings\Documents\Visual Studio 2010\Projects\OMVXMLFeedReaderV2\obj\Debug\OMVXMLFeedReader.pdb
