@@ -20,6 +20,16 @@ so this example uses it to call a DNN proc called "PurgeEventLog":
     var db = Database.OpenNamedConnection("SiteSQLServer"); // create a db connection to DNN database
     db.PurgeEventLog(); // call the proc "PurgeEventLog"
 
-Clearly you will need to add the Simple.Data DLLs to you DNN bin folder.
 
+To run the task in DNN create a new scheduled task and enable it. For the full class name and assembly use:
+
+    <strong>DNNScheduledTask.DotNetNuke.MyTask,DNNScheduledTask</strong>
+
+Then add the task DLL (DNNScheduledTask.dll) to the DNN \bin folder
+
+If you want to use Simple.Data as in this example you will also need to add the Simple.Data DLLs to you DNN bin folder:
+
+Simple.Data.dll
+Simple.Data.Ado.dll
+Simple.Data.SqlServer.dll
 
