@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScheduledTask", "ScheduledTask.csproj", "{10E82D7A-1095-402F-A0AF-EB3868ABD38D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWebSite", "..\TestWebSite\TestWebSite.csproj", "{D52C86A3-D1DE-40D3-A6E6-73C41F7D3F19}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWebSite", "TestWebSite\TestWebSite.csproj", "{D52C86A3-D1DE-40D3-A6E6-73C41F7D3F19}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
