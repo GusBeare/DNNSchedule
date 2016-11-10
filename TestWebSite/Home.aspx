@@ -9,6 +9,8 @@
 <body>
     <form id="form1" runat="server">
     <div>
+        <div>Click the button to run the schedule code</div>
+        <hr/>
     <asp:Button ID="btnRunSomeWork" runat="server" OnClick="btnRunSomeWork_OnClick" Text="Button" />  
     </div>
     </form>
