@@ -15,6 +15,9 @@ namespace DNNScheduledTask.DotNetNuke
             // Ideally use the script for now. Dunno about the PurgeEventLog proc. Out of date?
             // what does DNN code do when you clear the event log? 
 
+       
+
         }
+      
     }
 }
