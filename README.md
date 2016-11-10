@@ -23,7 +23,7 @@ so this example uses it to call a DNN proc called "PurgeEventLog":
 
 To run the task in DNN create a new scheduled task and enable it. For the full class name and assembly use:
 
-    <em>DNNScheduledTask.DotNetNuke.MyTask,DNNScheduledTask</em>
+__DNNScheduledTask.DotNetNuke.MyTask,DNNScheduledTask__
 
 Then add the task DLL (DNNScheduledTask.dll) to the DNN \bin folder
 
