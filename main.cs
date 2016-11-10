@@ -4,8 +4,7 @@ using System;
 
 
 
-// When installing the schedule in DNN use this full class and assembly name:
-// DNNScheduledTask.DotNetNuke.MyTask,DNNScheduledTask
+// When installing the schedule in DNN use this full class and assembly name: DNNScheduledTask.DotNetNuke.MyTask,DNNScheduledTask
 
 namespace DNNScheduledTask.DotNetNuke
 {
