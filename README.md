@@ -15,9 +15,11 @@ For this example the idea was to truncate the Event Log which is a commonly requ
 So the code is an outline and you can modify it to do what you want.
 
 I am in the habit of steering clear of the DNN API for database stuff. I much prefer to use a micro ORM like [Simple.Data](http://simplefx.org/simpledata/docs/pages/Start/WhatIsSimpleData.html) 
-so this example uses it to call a DNN proc called "PurgeEventLog"@
+so this example uses it to call a DNN proc called "PurgeEventLog":
 
     var db = Database.OpenNamedConnection("SiteSQLServer"); // create a db connection to DNN database
     db.PurgeEventLog(); // call the proc "PurgeEventLog"
+
+Clearly you will need to add the Simple.Data DLLs to you DNN bin folder.
 
 
