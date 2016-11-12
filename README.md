@@ -14,8 +14,8 @@ the task DLL in DNN.
 For this example the idea was to truncate the Event Log which is a commonly required task. However, the event log is in a period of transition in DNN 7.x.
 So the code is an outline and you can modify it to do what you want.
 
-I am in the habit of steering clear of the DNN API for database stuff. I much prefer to use a micro ORM like [Simple.Data](http://simplefx.org/simpledata/docs/pages/Start/WhatIsSimpleData.html) 
-so this example uses it to call a DNN proc called "PurgeEventLog":
+I am a big fan of micro ORM's and in particular [Simple.Data](http://simplefx.org/simpledata/docs/pages/Start/WhatIsSimpleData.html).  So this example 
+uses it to call a DNN proc called "PurgeEventLog":
 
     var db = Database.OpenNamedConnection("SiteSQLServer"); // create a db connection to DNN database
     db.PurgeEventLog(); // call the proc "PurgeEventLog"
